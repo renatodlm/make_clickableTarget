@@ -1,4 +1,4 @@
-# WordPres - Block non-paying users 
+# WordPres - Make clickable with target
 
 Description: <br> 
 This function has the purpose of capturing a text that contains URL's and returns with the applied URL, besides giving the option to open in the same tab or in a new one.<br>  
